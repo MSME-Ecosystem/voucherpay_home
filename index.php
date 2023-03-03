@@ -1847,25 +1847,25 @@
                 <div class="row align-items-center">
                     <div class="col-lg-7 col-md-12">
                         <div class="main-banner-woman-content pt-5">
-                            <h1>Easy, near zero-fee payment for entrepreneurs</h1>
-                            <p>Digital payments for Business Enterprise and Cooperatives</p>
+                            <h1>Easy, near-zero-fee payments for businesses and cooperatives</h1>
+                            <p>Empowering businesses and cooperative groups beyond payment</p>
                             <ul class="btn-list">
                                 <li><a class="btn btn-primary bg-#00CCFF" href="contact.html">Get Started</a></li>
                                 <li>
-                                    <a class="discover-more-btn" href="contact.html">Discover More <i class="fa-solid fa-chevron-right"></i></a>
+                                    <a class="discover-more-btn" href="https://doc.voucherpay.online">Discover More <i class="fa-solid fa-chevron-right"></i></a>
                                 </li>
                             </ul>
                         </div>
                     </div>
                     <div class="col-lg-5 col-md-12">
-                        <div class="main-banner-woman-image"><img src="assets/images/truted-by/Voucher Pay-transaction hook.png"alt="image" width="400"/>
-                            <div class="woman-shape"><img src="assets/images/home-six/banner/woman-shape-1.png"
-                                    alt="image" /></div>
+                        <div class="main-banner-woman-image"><img src="https://assets.paystack.com/assets/img/content/Collect-Payments-for-Multiple-Channels-1.1.gif"alt="image" width="500"/>
+                            <!-- <div class="woman-shape"><img src="assets/images/home-six/banner/woman-shape-1.png" -->
+                                    <!-- alt="image" /></div> -->
                         </div>
                     </div>
                 </div>
             </div>
-            <div class="banner-woman-shape"><img src="assets/images/home-six/banner/woman-shape-2.png" alt="image" /></div>
+            <!-- <div class="banner-woman-shape"><img src="assets/images/home-six/banner/woman-shape-2.png" alt="image" /></div> -->
         </div>
         
         <div class="partner-style-area pt-60 pb-60">
@@ -1920,12 +1920,11 @@
                                     </ul>
                                 </div>
                             </div>
-                            <div class="about-btn"><a class="sign-up-btn" href="https://dashboard.voucherpay.online/">signup now <i
-                                        class="fa-solid fa-chevron-right"></i></a></div>
+                            <!-- <div class="about-btn"><a class="sign-up-btn" href="https://dashboard.voucherpay.online/">signup now <iclass="fa-solid fa-chevron-right"></i></a></div> -->
                         </div>
                     </div>
                     <div class="col-lg-6 col-md-12">
-                        <img src="./assets/images/Voucher Pay-secure paymnt.png" alt="" height="500" width="500" class="mobile-res-phone">
+                        <!-- <img src="./assets/images/Voucher Pay-secure paymnt.png" alt="" height="500" width="500" class="mobile-res-phone"> -->
                     </div>
                     </div>
                 </div>
@@ -1936,11 +1935,11 @@
             <div class="container">
                 <div class="row align-items-center">
                     <div class="col-lg-6 col-md-12">
-                        <div class="flexibility-image"><img src="assets/images/truted-by/Scale-growth nw.png" alt="image" />
+                        <!-- <div class="flexibility-image"><img src="assets/images/truted-by/Scale-growth nw.png" alt="image" /> -->
                         </div>
                     </div>
-                    <div class="col-lg-6 col-md-12">
-                        <div class="flexibility-content"> 
+                    <div class="col-lg-12 col-md-12">
+                        <div class="flexibility-content d-flex justify-content-center align-items-center"> 
                             <h3>Scale growth through seamless transactions</h3>
                             <div class="row justify-content-center">
                                 <div class="col-lg-6 col-md-6">
@@ -1965,41 +1964,53 @@
             </div>
         </div>
         <div class="funfacts-style-area">
-            <div class="container">
+            <div class="container-fluid bg-light">
                 <div class="funfacts-style-inner-box ptb-100">
                     <div class="row">
-                        <div class="col-lg-3 col-sm-3 col-md-3 col-6">
+                        <div class="col-lg-4 col-sm-3 col-md-3 col-6">
                             <div class="funfact">
                                 
                                 <h3><span>8500</span></h3>
                                 <p>Clients</p>
                             </div>
                         </div>
-                        <div class="col-lg-3 col-sm-3 col-md-3 col-6">
+                        <div class="col-lg-4 col-sm-3 col-md-3 col-6">
                             <div class="funfact">
                                 
                                 <h3><span>2500</span></h3>
                                 <p>Users</p>
                             </div>
                         </div>
-                        <div class="col-lg-3 col-sm-3 col-md-3 col-6">
+                        <div class="col-lg-4 col-sm-3 col-md-3 col-6">
                             <div class="funfact">
                                 <h3><span>$ 5000</span>plus</h3>
                                 <p>Transactions</p>
                             </div>
                         </div>
-                        <div class="col-lg-3 col-sm-3 col-md-3 col-6">
+                        <div class="col-lg-4 col-sm-3 col-md-3 col-6 mt-5">
+                            <div class="funfact">
+                                <h3><span>15000</span>+</h3>
+                                <p>Happy Customers</p>
+                            </div>
+                        </div>
+                        <div class="col-lg-4 col-sm-3 col-md-3 col-6 mt-5">
+                            <div class="funfact">
+                                <h3><span>15000</span>+</h3>
+                                <p>Happy Customers</p>
+                            </div>
+                        </div>
+                        <div class="col-lg-4 col-sm-3 col-md-3 col-6 mt-5">
                             <div class="funfact">
                                 <h3><span>15000</span>+</h3>
                                 <p>Happy Customers</p>
                             </div>
                         </div>
                     </div>
-                    <div class="contact-cta-box">
+                    <!-- <div class="contact-cta-box">
                         <h3>Have any question about us?</h3>
                         <p>Don&#x27;t hesitate to contact us</p><a class="btn btn-btn-btn text-white"
                             href="https://dashboard.voucherpay.online/">Sign Up</a>
-                    </div>
+                    </div> -->
                 </div>
             </div>
         </div>
@@ -2012,28 +2023,28 @@
                     <div class="col-lg-3 col-md-6">
                         <div class="security-services-card">
                             <div class="icon"><img src="./assets/images/truted-by/Voucher Pay-payment icon.png" alt="" height="50"></div>
-                            <h3> VOUCHER PAYMENTS</h3>
+                            <h3> VOUCHERPAY API'S</h3>
                             <p>With Voucherpay easy payment is guaranteed for your virtual, physical bill payments and daily transactions either locally or internationally.</p> 
                         </div>
                     </div>
                     <div class="col-lg-3 col-md-6">
                         <div class="security-services-card">
                             <div class="icon"><img src="./assets/images/truted-by/Voucher Pay-voucher point.png" alt="" height="50"></div>
-                            <h3> VOUCHER POINTS</h3>
+                            <h3> VOUCHERPAY TERMINALS</h3>
                             <p>Various Voucher points are made available for your convenience and suitable for your mode of payment either bulk or small payments.</p> 
                         </div>
                     </div>
                     <div class="col-lg-3 col-md-6">
                         <div class="security-services-card">
                             <div class="icon"><img src="./assets/images/truted-by/Voucher Pay-voucher agent2.png" alt="" height="50"></div>
-                            <h3> VOUCHER AGENT</h3>
+                            <h3> VOUCHERPAY AGENTS</h3>
                             <p>Voucherpay is dedicated to serving you and your business. One way to achieve that is by providing you voucher agents to see through any issue you might be experiencing.</p> 
                         </div>
                     </div>
                     <div class="col-lg-3 col-md-6">
                         <div class="security-services-card">
                             <div class="icon"><img src="./assets/images/truted-by/Voucher Pay-voucher cooperative icon.png" alt="" height="50"></div>
-                            <h3> VOUCHER COOPERATIVE</h3>
+                            <h3> VOUCHERPAY COOPERATIVES</h3>
                             <p>Aside from the hassle-free payment services you enjoy using voucherpay, you are also eligible for mouth watering services and benefits as a member of a registered cooperative</p> 
                         </div>
                     </div>
@@ -2066,7 +2077,7 @@
                         </div>
                     </div>
                     <div class="col-lg-6 col-md-12">
-                        <div class="awesome-features-image"><img src="assets/images/truted-by/Voucher-pay-lady with-phone.png" alt="image" /></div>
+                        <div class="awesome-features-image"><img src="assets/images/new-img/Voucher Pay-lady with phone-new.png" alt="image" /></div>
                     </div>
                 </div>
             </div>
@@ -2099,7 +2110,7 @@
                         <div class="single-blog-card">
                             <div class="image">
                                 <a class="d-block" href="../single-blog/index.html">
-                                    <img src="assets/images/truted-by/Voucher Pay-business payment.png" alt="image" />
+                                    <img src="assets/images/new-img/Voucher Pay-payment for ind--.png" alt="image" />
                                 </a>
                             </div>
                             <div class="content">
@@ -2114,7 +2125,7 @@
                         <div class="single-blog-card">
                             <div class="image">
                                 <a class="d-block" href="../single-blog/index.html">
-                                    <img src="assets/images/truted-by/Voucher Pay-payment for cooperative.png" alt="image" />
+                                    <img src="assets/images/new-img/Voucher Pay-payment for cooperative.png" alt="image" />
                                 </a>
                             </div>
                             <div class="content">
@@ -2128,7 +2139,7 @@
                 </div>
             </div>
         </div>
-        <div class="subscribe-wrap-area pt-30 pb-50">
+        <!-- <div class="subscribe-wrap-area pt-30 pb-50">
             <div class="container">
                 <div class="subscribe-wrap-inner-box">
                     <div class="subscribe-wrap-box-content">
@@ -2146,9 +2157,8 @@
                     </div>
                 </div>
             </div>
-        </div>
+        </div> -->
         <?php require('footer.html'); ?>
-        <div class="back-to-top show-back-to-top"></div>
     </div>
 
     

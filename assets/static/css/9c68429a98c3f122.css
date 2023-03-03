@@ -2181,13 +2181,18 @@ textarea.form-control-lg {
     opacity: .65;
 }
 .btn-primary {
-    background-color: #0d6efd;
-    border-color: #0d6efd;
+    background-color: #00CCFF;
+    border-color: #00CCFF;
 }
 .btn-check:focus+.btn-primary, .btn-primary:focus, .btn-primary:hover {
     color: #fff;
-    background-color: #0b5ed7;
-    border-color: #0a58ca;
+    background-color: #00CCFF;
+    border-color: #00CCFF;
+}
+.get-started:before{
+    background-color: #00CCFF !important;
+    padding: 10px 15px;
+    color: red;
 }
 .btn-check:focus+.btn-primary, .btn-primary:focus {
     box-shadow: 0 0 0 .25rem rgba(49, 132, 253, .5);
@@ -14000,8 +14005,8 @@ to {
     src: url(../../fonts/Flaticon.svg#Flaticon) format("svg");
 }
 .others-options{
-    display: flex;
-    gap: 20px;
+    display: none !important;
+    /* gap: 20px; */
 }
 }[class*=" flaticon-"]:after, [class*=" flaticon-"]:before, [class^=flaticon-]:after, [class^=flaticon-]:before {
     font-family: Flaticon;
@@ -14273,11 +14278,11 @@ p:last-child {
     opacity: 1;
 }
 .btn-primary {
-    background-color: transparent;
+    background-color: #00CCFF;
     color: #fff;
 }
 .btn-primary:before {
-    background:linear-gradient(to right top, #00CCFf, #FD931E);
+    /* background-color: #00CCFF !important; */
     border: none;
     color: #fff !important;
 }
@@ -14293,12 +14298,12 @@ p:last-child {
     transition: .5s;
 }
 .btn-primary:after {
-    background:linear-gradient(to left top, #00CCFf, #FD931E);
+    /* background-color: #00CCFF !important; */
     opacity: 0;
     visibility: hidden;
 }
 .btn-primary:focus, .btn-primary:hover {
-    background-color: transparent!important;
+    /* background-color: transparent!important; */
     color: #fff!important;
     box-shadow: unset!important;
 }
@@ -14496,7 +14501,8 @@ to {
     position: absolute;
     border: none;
     top: 80px;
-    left: 0;
+    right: 0;
+    left: -50%;
     width: 250px;
     z-index: 99;
     display: block;
@@ -14643,8 +14649,17 @@ to {
 .luvion-nav .navbar .others-options {
     margin-left: 25px;
 }
+.create-login-btn button{
+    
+}
+.create{
+
+}
+.Logged{
+    border: none;
+}
 .luvion-nav .navbar .others-options .btn-primary {
-    background-color: #00CCFF;
+    background-color: #00CCFF !important;
 }
 .luvion-nav .navbar .others-options .login-btn {
     color: black !important;
@@ -14861,6 +14876,7 @@ to {
 }
 .navbar-area .luvion-nav .navbar .navbar-nav .nav-item a, .navbar-area .luvion-nav .navbar .others-options .login-btn {
     color: #212529;
+    display: none;
 }
 .navbar-area.is-sticky {
     border-bottom: none;
@@ -16347,7 +16363,7 @@ to {
     border-radius: 30px;
 }
 .single-pricing-box .buy-btn .btn-primary:before {
-    background: linear-gradient(to right top, #a3a3a3, #9a9a9a, #909090, #878787, #7e7e7e);
+    /* background: linear-gradient(to right top, #a3a3a3, #9a9a9a, #909090, #878787, #7e7e7e); */
     border-radius: 30px;
 }
 .single-pricing-box .pricing-features {
@@ -16385,12 +16401,12 @@ to {
     transition: .5s;
 }
 .single-pricing-box:hover .buy-btn .btn-primary:after {
-    background: linear-gradient(to right top, #00CCFF, #FD931E);
+    /* background: linear-gradient(to right top, #00CCFF, #FD931E); */
     opacity: 1;
     visibility: visible;
 }
 .single-pricing-box.active .buy-btn .btn-primary:before, .single-pricing-box.active .pricing-header:after {
-    background: linear-gradient(to right top, #00CCFF, #FD931E);
+    /* background-color:#00CCFF !important; */
     content: "";
     position: absolute;
     left: 0;
@@ -16835,21 +16851,7 @@ to {
     background-color: #FD931E;
     transition: ease-in-out .5s;
 }
-/* .account-create-content .create-account {
-    text-align: right;
-}
-.account-create-content .btn-primary {
-    padding: 17px 30px;
-}
-.account-create-content .btn-primary:before {
-    background: #00CCFF;
-}
-.account-create-content .btn-primary:after {
-    background: #fff;
-}
-.account-create-content .btn-primary:focus, .account-create-content .btn-primary:hover {
-    color: #212529!important;
-} */
+
 .single-blog-post {
     background: #fff;
     position: relative;
@@ -19165,7 +19167,6 @@ ul.entry-meta li i {
     display: none;
 }
 .main-banner-woman-area {
-    background-color: #fffdef;
     padding-top: 150px;
     position: relative;
     z-index: 1;
@@ -19222,9 +19223,9 @@ ul.entry-meta li i {
 }
 .main-banner-woman-content h1 {
     font-size: 60px;
-    font-weight: 500;
+    font-weight: 1000;
     margin-top: 100px;
-    line-height: 60px;
+    /* line-height: 60px; */
 }
 .main-banner-woman-content p {
     font-size: 20px;
@@ -19304,14 +19305,15 @@ ul.entry-meta li i {
     display: none;
 }
 .about-us-area {
-    background-color: #222;
+    background-color: #fff;
     position: relative;
     z-index: 1;
     overflow: hidden;
+    color: black;
 }
 .about-us-content span {
     font-size: 16.5px;
-    color: #ee0979;
+    color: black;
     display: inline-block;
     margin-bottom: 18px;
     font-weight: 400;
@@ -19320,11 +19322,11 @@ ul.entry-meta li i {
 .about-us-content h3 {
     font-size: 40px;
     margin-bottom: 20px;
-    color: #fff;
+    color: #000;
     line-height: 1.4;
 }
 .about-us-content p {
-    color: #fff;
+    color: #000;
     margin-bottom: 0;
 }
 .about-us-content .list {
@@ -19334,7 +19336,7 @@ ul.entry-meta li i {
 }
 .about-us-content .list li {
     font-size: 16px;
-    color: #fff;
+    color: #000;
     font-weight: 400;
     display: inline-block;
     margin-bottom: 35px;
@@ -19494,7 +19496,7 @@ ul.entry-meta li i {
     background: #f5f5f5;
     bottom: 0;
 }
-.funfacts-style-inner-box {
+/* .funfacts-style-inner-box {
     background:url(../../../assets/images/truted-by/Voucher-Pay-contact114.png);
     background-position: center;
     background-size: cover;
@@ -19503,10 +19505,10 @@ ul.entry-meta li i {
     padding-left: 50px;
     padding-right: 50px;
     height:55vh;
-}
+} */
 .funfacts-style-inner-box .funfact h3, .funfacts-style-inner-box .funfact p {
-    color: #fff;
-    text-shadow: 0 4px 4px black;
+    color: #00CCFF;
+    /* text-shadow: 0 4px 4px black; */
 }
 .funfacts-style-inner-box .contact-cta-box {
     max-width: 800px;
@@ -19516,7 +19518,7 @@ ul.entry-meta li i {
     color: #fff;
 }
 .funfacts-style-inner-box .contact-cta-box .btn-primary:before {
-    background:linear-gradient(to right top, #00CCFf, #FD931E);
+    /* background-color:#00CCFF; */
 }
 .security-services-area {
     background-color: #f5f5f5;
@@ -19838,7 +19840,7 @@ ul.entry-meta li i {
     height: 50px;
 }
 .subscribe-wrap-box-content .newsletter-form .btn-primary:before {
-    background: #212529;
+    /* background: #212529; */
 }
 .footer-area.footer-style-wrap {
     background-color: #222;
@@ -20743,9 +20745,22 @@ p {
     top: 0;
     opacity: 1;
     visibility: visible;
-    width: 98%;
+    width: 50%;
     border: 1px solid #eee;
     margin-top: 5px;
+    display: none;
+}
+.navbar-area .luvion-nav .navbar .navbar-nav .nav-item .dropdown-menu-account{
+    padding-top: 15px;
+    padding-bottom: 15px;
+    position: relative;
+    top: 0;
+    opacity: 1;
+    visibility: visible;
+    width: 50%;
+    border: 1px solid #eee;
+    margin-top: 5px;
+    display: none;
 }
 .navbar-area .luvion-nav .navbar .navbar-nav .nav-item .dropdown-menu li .dropdown-menu, .navbar-area .luvion-nav .navbar .navbar-nav .nav-item .dropdown-menu li .dropdown-menu li .dropdown-menu {
     position: relative;
@@ -20753,7 +20768,7 @@ p {
     visibility: visible;
     left: 15px;
     top: 0!important;
-    width: 90%}
+    width: 50%}
 .navbar-area .luvion-nav .navbar .navbar-nav .nav-item .dropdown-menu li a:first-child {
     margin-left: 0;
 }
@@ -20762,9 +20777,11 @@ p {
     position: absolute;
     top: 4px;
     right: 50px;
+    display: none;
 }
 .navbar-area .luvion-nav .navbar .others-options .login-btn {
     font-size: 15px;
+    display: none;
 }
 .pagination-area {
     margin-top: 0;
@@ -21088,6 +21105,7 @@ p {
 }
 .main-banner-woman-content h1 {
     font-size: 30px;
+    font-weight: 1000;
     margin-top: 0 !important;
 }
 .main-banner-woman-content p {
@@ -21817,6 +21835,8 @@ p {
 }
 .main-banner-woman-content h1 {
     font-size: 65px;
+    font-weight: 1000;
+    line-height: 70px;
 }
 .main-banner-woman-image {
     margin-top: 30px;
@@ -22053,7 +22073,8 @@ p {
 }
 .main-banner-woman-content h1 {
     font-size: 45px;
-    font-weight: 600;
+    font-weight: 1000;
+    line-height: 20%;
     margin-bottom: 0;
 }
 .banner-woman-shape {
