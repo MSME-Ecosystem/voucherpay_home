@@ -1835,7 +1835,7 @@
 <body>
     <div id="__next">
     <?php require('nav-bar.html'); ?>
-      <div class="page-title-area item-bg3">
+      <div class="page-title-area">
             <div class="container">
                 <div class="page-title-content">
                     <h2>Our Services</h2>
@@ -1896,7 +1896,7 @@
                 </div>
             </div>
         </section>
-        <div class="services-area ptb-70">
+        <!-- <div class="services-area ptb-70">
             <div class="container-fluid p-0">
                 <div class="overview-box d-flex justify-content-center align-items-center">
                     <div class="overview-content">
@@ -1995,7 +1995,64 @@
                     </div>
                 </div>
             </div>
+        </div> -->
+        <div class="container mt-5">
+            <div class="row">
+                <div class="col-lg-6">
+                    <h1>VOUCHERPAY API's</h1>
+                    <h4>Make work more easier for yourself and the enterprise, while Voucherpay provides API's for your businesses</h4>
+                    <p>Voucherpay provides solutions to either small or large cooperative bodies through API integrations and tools to build the Cooperative system.  As a Cooperative body, you also enjoy several benefits leveraging our platform.</p>
+                </div>
+                <div class="col-lg-6">
+                    <img src="./assets/images/new-img/VP-Image1.png" alt="" height="300">
+                </div>
+            </div>
         </div>
+
+
+        <div class="container mt-5">
+            <div class="row">
+                <div class="col-lg-6">
+                    <img src="./assets/images/new-img/VP-Image1.png" alt="" height="300">
+                </div>
+                <div class="col-lg-6">
+                    <h1>VOUCHERPAY TERMINALS</h1>
+                    <h4>Lorem ipsum dolor, sit amet consectetur adipisicing elit. In, maxime.</h4>
+                    <p>Voucher points such as Point-of-sale terminals (POS), QR codes, and NFC cards would be made available for easy payment and transaction processes for your business and organization.</p>                </div>
+                </div>
+            </div>
+        </div>
+
+
+        <div class="container mt-5">
+            <div class="row">
+                <div class="col-lg-6">
+                    <h1>VOUCHERPAY AGENTS</h1>
+                    <h4>Be a benefitairy of Voucherpay now, visit <a class="text-primary" href="https://dashboard.voucherpay.online/signup">www.online-voucher.com</a>, and make more money with Voucherpay Terminals</h4>
+                    <p>Voucher agents would be made available at designated locations close to your locality to aid with your payment convenience. (apply as an agents or click the apply now button below)</p>
+                    <a href="./contact.php" class="btn btn-primary">Apply Now</a>
+                </div>
+                <div class="col-lg-6">
+                    <img src="./assets/images/Voucher Pay-about us.png" alt="" height="300">
+                </div>
+            </div>
+        </div>
+
+        <div class="container mt-5">
+            <div class="row">
+                <div class="col-lg-6">
+                    <img src="./assets/images/Voucher Pay-img2.png" alt="" height="300">
+                </div>
+                <div class="col-lg-6">
+                    <h1>VOUCHERPAY COOPERATIVES</h1>
+                    <h4>Lorem ipsum dolor sit amet consectetur adipisicing elit. Nam quo aspernatur quod vero unde. Ipsam doloribus id sint placeat non.</h4>
+                    <p>Aside from the hassle-free payment services you enjoy using voucherpay, you are also eligible for mouthwatering services and benefits as a member of a registered cooperative.</p>
+                </div>
+                </div>
+            </div>
+        </div>
+
+
         <section class="features-section ptb-70 bg-f7fafd">
             <div class="container">
                 <div class="section-title">
@@ -2014,7 +2071,7 @@
                                         <div class="icon">
                                             <img src="./assets/images/Voucher Pay-streamline ope.png" alt="" height="40">
                                         </div>
-                                        <h3><a href="index.html">VOUCHER PAYMENTS</a></h3>
+                                        <h3><a href="index.html">VOUCHERPAY API's</a></h3>
                                         <p>With voucherpay, you can send and receive payments, make deposits to your voucherpay account and also make withdrawal requests. You can also pay your bills such as Phone, Tv, Gas, Petrol, and Power and also book official flight tickets using our payment platform.</p>
                                     </div>
                                 </div>
@@ -2023,7 +2080,7 @@
                                         <div class="icon bg-f78acb">
                                             <img src="./assets/images/Voucher Pay-transparent backlog.png" alt="" height="40">
                                         </div>
-                                        <h3><a href="index.html">VOUCHER POINTS</a></h3>
+                                        <h3><a href="index.html">VOUCHERPAY TERMINALS</a></h3>
                                         <p>Voucher points such as Point-of-sale terminals (POS), QR codes, and NFC cards would be made available for easy payment and transaction processes for your business and organization.</p>
                                     </div>
                                 </div>
@@ -2032,14 +2089,14 @@
                                         <div class="icon bg-cdf1d8">
                                             <img src="./assets/images/Voucher Pay-maximize profit.png" alt="" height="40">
                                         </div>
-                                        <h3><a href="index.html">VOUCHER AGENT</a></h3>
+                                        <h3><a href="index.html">VOUCHERPAY AGENTS</a></h3>
                                         <p>Voucher agents would be made available at designated locations close to your locality to aid with your payment convenience.</p>
                                     </div>
                                 </div>
                                 <div class="col-lg-12 col-md-6">
                                     <div class="features-box">
                                         <div class="icon bg-c679e3"><img src="./assets/images/Voucher Pay-enterprise grade.png" alt="" height="40"></div>
-                                        <h3><a href="index.html">VOUCHER COOPERATIVE</a></h3>
+                                        <h3><a href="index.html">VOUCHERPAY COOPERATIVES</a></h3>
                                         <p>Aside from the hassle-free payment services you enjoy using voucherpay, you are also eligible for mouthwatering services and benefits as a member of a registered cooperative.</p>
                                     </div>
                                 </div>

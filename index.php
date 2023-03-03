@@ -1852,7 +1852,7 @@
                             <ul class="btn-list">
                                 <li><a class="btn btn-primary bg-#00CCFF" href="contact.html">Get Started</a></li>
                                 <li>
-                                    <a class="discover-more-btn" href="https://doc.voucherpay.online">Discover More <i class="fa-solid fa-chevron-right"></i></a>
+                                    <a class="discover-more-btn" href="https://doc.voucherpay.online">Talk to sales<i class="fa-solid fa-chevron-right"></i></a>
                                 </li>
                             </ul>
                         </div>
@@ -1966,43 +1966,43 @@
         <div class="funfacts-style-area">
             <div class="container-fluid bg-light">
                 <div class="funfacts-style-inner-box ptb-100">
-                    <div class="row">
-                        <div class="col-lg-4 col-sm-3 col-md-3 col-6">
+                    <div class="row m-4">
+                        <div class="col-lg-4 col-sm-6 col-md-3 col-6">
                             <div class="funfact">
                                 
                                 <h3><span>8500</span></h3>
-                                <p>Clients</p>
+                                <p class="text-dark">Clients</p>
                             </div>
                         </div>
-                        <div class="col-lg-4 col-sm-3 col-md-3 col-6">
+                        <div class="col-lg-4 col-sm-6 col-md-3 col-6">
                             <div class="funfact">
                                 
                                 <h3><span>2500</span></h3>
-                                <p>Users</p>
+                                <p class="text-dark">Users</p>
                             </div>
                         </div>
-                        <div class="col-lg-4 col-sm-3 col-md-3 col-6">
+                        <div class="col-lg-4 col-sm-6 col-md-3 col-6">
                             <div class="funfact">
                                 <h3><span>$ 5000</span>plus</h3>
-                                <p>Transactions</p>
+                                <p class="text-dark">Transactions</p>
                             </div>
                         </div>
-                        <div class="col-lg-4 col-sm-3 col-md-3 col-6 mt-5">
+                        <div class="col-lg-4 col-sm-6 col-md-3 col-6 ">
                             <div class="funfact">
                                 <h3><span>15000</span>+</h3>
-                                <p>Happy Customers</p>
+                                <p class="text-dark">Happy Customers</p>
                             </div>
                         </div>
-                        <div class="col-lg-4 col-sm-3 col-md-3 col-6 mt-5">
+                        <div class="col-lg-4 col-sm-6 col-md-3 col-6">
                             <div class="funfact">
                                 <h3><span>15000</span>+</h3>
-                                <p>Happy Customers</p>
+                                <p class="text-dark">Happy Customers</p>
                             </div>
                         </div>
-                        <div class="col-lg-4 col-sm-3 col-md-3 col-6 mt-5">
+                        <div class="col-lg-4 col-sm-6 col-md-3 col-6 ">
                             <div class="funfact">
                                 <h3><span>15000</span>+</h3>
-                                <p>Happy Customers</p>
+                                <p class="text-dark">Happy Customers</p>
                             </div>
                         </div>
                     </div>
@@ -2136,6 +2136,18 @@
                             </div>
                         </div>
                     </div>
+                </div>
+            </div>
+        </div>
+        <div class="container bg-#070d13 ptb-70">
+            <div class="row d-flex justify-content-center align-items-center">
+                <div class="col-lg-8 col-sm-12">
+                    <h1>Building your solutions with easy use Api's</h1>
+                    <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Suscipit dolore dolores repudiandae quae error quaerat nobis ducimus illum repellat excepturi!</p>
+                    <a class="btn btn-primary" href="https://doc.voucherpay.online">Discover More</a>
+                </div> 
+                <div class="col-lg-4 col-sm-12">
+                    <img src="./assets/images/code-for-documentation.png" alt="" >
                 </div>
             </div>
         </div>
