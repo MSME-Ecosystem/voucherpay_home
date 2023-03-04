@@ -936,6 +936,9 @@ progress {
 .col-lg-6 {
     flex: 0 0 auto;
     width: 50%}
+    .col-lg-6 h1{
+        font-size: 25px;
+    }
 .col-lg-7 {
     flex: 0 0 auto;
     width: 58.33333333%}
@@ -1513,6 +1516,9 @@ progress {
 .form-control::placeholder {
     color: #6c757d;
     opacity: 1;
+}
+.platform-main-content h1{
+    font-size: 40px;
 }
 .form-control:disabled, .form-control[readonly] {
     background-color: #e9ecef;
@@ -14503,7 +14509,7 @@ to {
     top: 80px;
     right: 0;
     left: -80%;
-    width: 350px;
+    width: 480px;
     z-index: 99;
     display: block;
     opacity: 0;
@@ -16809,7 +16815,8 @@ to {
 .account-create-area {
     position: relative;
     z-index: 1;
-    background: linear-gradient(90deg, #00CCFF, #FD931E);
+    background:white;
+    color: black;
     padding-top: 80px;
     padding-bottom: 80px;
 }
@@ -16823,17 +16830,18 @@ to {
     opacity: .2;
     height: 100%;
     z-index: -1;
-    background-image: url(../../../assets/images/bg_lines.svg);
+    background-image: white;
+    color: black;
     background-repeat: no-repeat;
     background-position: 50%;
     background-size: 200%}
 .account-create-content h2 {
-    color: #fff;
+    color: #000;
     margin-bottom: 0;
     font-size: 40px;
 }
 .account-create-content p {
-    color: #fff;
+    color: #000;
     line-height: normal;
     font-size: 18px;
     margin-top: 15px;
@@ -17311,11 +17319,11 @@ ul.entry-meta li i {
 .page-title-area {
     position: relative;
     z-index: 1;
-    background-color: #212529;
+    /* background-color: #212529;
     background-position: 50%;
     background-size: cover;
     background-repeat: no-repeat;
-    background-attachment: fixed;
+    background-attachment: fixed; */
     padding-top: 200px;
     padding-bottom: 120px;
 }
@@ -19510,8 +19518,13 @@ ul.entry-meta li i {
 .security-services-area {
     background-color: #f5f5f5;
 }
-.flexing-1{
+.flexing-1, .flexing-2{
     display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.text-#f57f17{
+    color: brown;
 }
 .security-services-card {
     padding: 30px;
@@ -20735,7 +20748,7 @@ p {
     top: 0;
     opacity: 1;
     visibility: visible;
-    width: 80%;
+    max-width: 500px;
     border: 1px solid #eee;
     margin-top: 5px;
     display: none;
@@ -20747,7 +20760,7 @@ p {
     top: 0;
     opacity: 1;
     visibility: visible;
-    width: 80%;
+    width: 100%;
     border: 1px solid #eee;
     margin-top: 5px;
     display: none;
@@ -20758,7 +20771,8 @@ p {
     visibility: visible;
     left: 15px;
     top: 0!important;
-    width: 50%}
+    width: 100% !important;
+}
 .navbar-area .luvion-nav .navbar .navbar-nav .nav-item .dropdown-menu li a:first-child {
     margin-left: 0;
 }
