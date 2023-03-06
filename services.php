@@ -1834,6 +1834,24 @@
 
 <body>
     <?php include('./nav-bar.html') ?>
+
+
+        <div class="containe ptb-100">
+            <div class="row">
+                <div class="col-lg-7 mx-5">
+                    <h1>Build custom payments experiences with well-documented APIs</h1>
+                    <p>Developers love our thorough, well-documented APIs that let you to build everything from simple weekend projects, to complex financial products serving hundreds of thousands of customers. If you can imagine it, you can build it with Paystack.</p>
+                    <ul>
+                        <li>Collect one-time and recurring payments from your app or website</li>
+                        <li>Make instant transfers</li>
+                        <li>Retrieve all your transaction and customer data</li>
+                    </ul>
+                </div>
+                <div class="col-lg-5">
+                    <img src="./assets/images/new-img/VP-Image1.png" alt="" height="400">
+                </div>
+            </div>
+        </div>
         <div class="container mt-5 ptb-100 " id="api">
             <div class="row">
                 <div class="col-lg-6">
