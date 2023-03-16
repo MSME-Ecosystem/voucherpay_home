@@ -1,25 +1,30 @@
 <!DOCTYPE html>
 <html lang="en">
-    
+
 <head>
     <link rel="icon" type="image/png" href="assets/images/Voucher Pay+==.png" />
     <link rel="preconnect" href="https://fonts.gstatic.com/" crossorigin />
     <meta charSet="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
-    <title>Online - Voucher</title>
+    <title>VoucherPay</title>
     <meta name="next-head-count" content="3" />
-    <link rel="preload" href="assets/static/css/9c68429a98c3f122.css" as="style" />
-    <link rel="stylesheet" href="assets/static/css/9c68429a98c3f122.css" data-n-g="" /><noscript
-        data-n-css=""></noscript>
+
+
+    <link rel="stylesheet" href="assets/static/css/9c68429a98c3f122.css" data-n-g="" />
+    <noscript data-n-css=""></noscript>
     <script defer="" nomodule="" src="assets/static/chunks/polyfills-5cd94c89d3acac5f.js"></script>
+
     <script src="assets/static/chunks/webpack-4cd07d08d8399fab.js" defer=""></script>
     <script src="assets/static/chunks/framework-8957c350a55da097.js" defer=""></script>
     <script src="assets/static/chunks/main-f65253c7c555ee10.js" defer=""></script>
     <script src="assets/static/chunks/pages/_app-b998c70e5b0bdd1c.js" defer=""></script>
+    <script src="assets/static/chunks/45-511dd15b830e4a2a.js" defer=""></script>
     <script src="assets/static/chunks/423-37ab5811a42b3b04.js" defer=""></script>
-    <script src="assets/static/chunks/399-9bd747effbda85ea.js" defer=""></script>
-    <script src="assets/static/chunks/75-bcaab3a5e194ff1b.js" defer=""></script>
-    <script src="assets/static/chunks/pages/features-two-cac0f19158bf0b47.js" defer=""></script> 
+    <script src="assets/static/chunks/pages/index6-309cb2defea8d8f9.js" defer=""></script>
+
+    <!-- <script src="assets/static/Ws1m_-hL2iCN8Zq6ij9BS/_buildManifest.js" defer=""></script> -->
+    <!-- <script src="assets/static/Ws1m_-hL2iCN8Zq6ij9BS/_ssgManifest.js" defer=""></script>
+    <script src="assets/static/Ws1m_-hL2iCN8Zq6ij9BS/_middlewareManifest.js" defer=""></script> -->
     <style
         data-href="https://fonts.googleapis.com/css?family=Roboto:100,100i,300,300i,400,400i,500,500i,700,700i,900,900i&display=swap">
         @font-face {
@@ -1833,147 +1838,630 @@
 </head>
 
 <body>
+    <div id="__next">
+
     <?php include('./nav-bar.html') ?>
-
-
-        <div class="containe ptb-100">
-            <div class="row">
-                <div class="col-lg-7 mx-5">
-                    <h1>Build custom payments experiences with well-documented APIs</h1>
-                    <p>Developers love our thorough, well-documented APIs that let you to build everything from simple weekend projects, to complex financial products serving hundreds of thousands of customers. If you can imagine it, you can build it with Paystack.</p>
-                    <ul>
-                        <li>Collect one-time and recurring payments from your app or website</li>
-                        <li>Make instant transfers</li>
-                        <li>Retrieve all your transaction and customer data</li>
-                    </ul>
-                </div>
-                <div class="col-lg-5">
-                    <img src="./assets/images/new-img/VP-Image1.png" alt="" height="400">
-                </div>
-            </div>
-        </div>
-        <div class="container mt-5 ptb-100 " id="api">
-            <div class="row">
-                <div class="col-lg-6">
-                    <h1>PAYMENT APIs</h1>
-                    <h4>Make work more easier for yourself and the enterprise, while Voucherpay provides API's for your businesses</h4>
-                    <p>Voucherpay provides solutions to either small or large cooperative bodies through API integrations and tools to build the Cooperative system.  As a Cooperative body, you also enjoy several benefits leveraging our platform.</p>
-                </div>
-                <div class="col-lg-6">
-                    <img src="./assets/images/new-img/VP-Image1.png" alt="" height="300">
-                </div>
-            </div>
-        </div>
-
-
-        <div class="container mt-5">
-            <div class="row">
-                <div class="col-lg-6">
-                    <img src="./assets/images/new-img/VP-Image1.png" alt="" height="300">
-                </div>
-                <div class="col-lg-6">
-                    <h1>TERMINALS APIs</h1>
-                    <h4>Lorem ipsum dolor, sit amet consectetur adipisicing elit. In, maxime.</h4>
-                    <p>Voucher points such as Point-of-sale terminals (POS), QR codes, and NFC cards would be made available for easy payment and transaction processes for your business and organization.</p>                </div>
-                </div>
-            </div>
-        </div>
-
-
-        <div class="container mt-5">
-            <div class="row">
-                <div class="col-lg-6">
-                    <h1>AGENTS SERVICE APIs</h1>
-                    <h4>Be a benefitairy of Voucherpay now, visit <a class="text-primary" href="https://dashboard.voucherpay.online/signup">www.online-voucher.com</a>, and make more money with Voucherpay Terminals</h4>
-                    <p>Voucher agents would be made available at designated locations close to your locality to aid with your payment convenience. (apply as an agents or click the apply now button below)</p>
-                    <a href="./contact.php" class="btn btn-primary">Apply Now</a>
-                </div>
-                <div class="col-lg-6">
-                    <img src="./assets/images/Voucher Pay-about us.png" alt="" height="300">
-                </div>
-            </div>
-        </div>
-
-        <div class="container mt-5">
-            <div class="row">
-                <div class="col-lg-6">
-                    <img src="./assets/images/Voucher Pay-img2.png" alt="" height="300">
-                </div>
-                <div class="col-lg-6">
-                    <h1>COOPERATIVE SERVICE APIs</h1>
-                    <h4>Lorem ipsum dolor sit amet consectetur adipisicing elit. Nam quo aspernatur quod vero unde. Ipsam doloribus id sint placeat non.</h4>
-                    <p>Aside from the hassle-free payment services you enjoy using voucherpay, you are also eligible for mouthwatering services and benefits as a member of a registered cooperative.</p>
-                </div>
-                </div>
-            </div>
-        </div>       
-        
-        <div class="partner-area ptb-70">
+        <div class="main-banner-woman-area pt-100">
             <div class="container">
-                <div class="section-title">
-                    <h2>Businesses building with us</h2>
-                    <div class="bar"></div>
-                    <p>Enjoy services and benefits with easy access to finance tailored to your industry</p>
-                </div>
-                <div class="partner-inner">
-                    <div class="row align-items-center">
-                        <div class="single-partner-item">
-                            <a href="index.html" target="_blank">
-                                <img src="./assets/images/truted-by/Voucher Pay-SmartAgric-new.png" alt="Partner" height="100"/>
-                                <img src="./assets/images/truted-by/Voucher Pay-SmartAgric-new.png" alt="Partner" height="100"/>
-                            </a>
-                        </div>
-                        <div class="single-partner-item">
-                            <a href="index.html" target="_blank">
-                                <img src="assets/images/truted-by/Voucher Pay-PowerEdu-new.png" alt="Partner" height="100"/>
-                                <img src="assets/images/truted-by/Voucher Pay-PowerEdu-new.png" alt="Partner" height="100"/>
-                            </a>
-                        </div>
-                        <div class="single-partner-item">
-                            <a href="index.html" target="_blank">
-                                <img src="assets/images/truted-by/Voucher Pay-Acemove-new.png" alt="Partner" height="100"/>
-                                <img src="assets/images/truted-by/Voucher Pay-Acemove-new.png" alt="Partner" height="100"/>
-                            </a>
-                        </div>
-                        <div class="single-partner-item">
-                            <a href="index.html" target="_blank">
-                                <img src="assets/images/truted-by/Voucher Pay-Truss-new.png" alt="Partner" height="100"/>
-                                <img src="assets/images/truted-by/Voucher Pay-Truss-new.png" alt="Partner" height="100"/>
-                            </a>
-                        </div>
-                        <div class="single-partner-item">
-                            <a href="index.html" target="_blank">
-                                <img src="assets/images/truted-by/Voucher Pay-Gomech-new.png" alt="Partner" height="100"/>
-                                <img src="assets/images/truted-by/Voucher Pay-Gomech-new.png" alt="Partner" height="100"/>
-                            </a>
-                        </div>
-                        <div class="single-partner-item">
-                            <a href="index.html" target="_blank">
-                                <img src="assets/images/truted-by/Voucher Pay-Quick-new.png" alt="Partner" height="100"/>
-                                <img src="assets/images/truted-by/Voucher Pay-Quick-new.png" alt="Partner" height="100"/>
-                            </a>
-                        </div>
-                        </div>
-                    </div>
-                </div>
-        </div>
-        <div class="account-create-area">
-            <div class="container account-create-content">
+
                 <div class="row align-items-center">
-                    <div class="col-lg-8 text-dark">
-                        <h2>Apply for an account in minutes</h2>
-                        <p>Get your Voucherpay account today!</p>
-                    </div>
-                    <div class="col-lg-4">
-                        <div class="create-account"><a class="btn btn-primary" href="../sign-up">Get Your Account</a></div>
+                    <div class="col-lg-6 col-md-12">
+                        <div class=" pt-1">
+                            <h6>PAYMENT APIs </h6>
+                            <h2>Build anything payment with our well-documented APIs
+                            </h2>
+                            <p>
+                                With our well documented payment APIs developers can easily build tailored solutions
+                                that suits their business. The VoucherPay payment APIs are specially designed to suite
+                                payment needs of cooperatives, micro, small to large scales businesses who wish to
+                                leverage digital payments to expand their customer outreach. </p>
+
+                        </div>
+                        <div class="my-3">
+                            <div class="d-flex flex-row bd-highlight mb-1 align-items-center">
+                                <div class="p-2 bd-highlight">
+                                    <i class="fa-solid fa-square-check" style="
+                                font-weight: 600;
+                                font-size: 20px;
+                                color: #00ccff;
+                                margin-right: 12px;
+                                "></i>
+                                </div>
+                                <p class="fs-5">
+                                    Verify Customers Identity
+                                </p>
+
+                            </div>
+                            <div class=" d-flex flex-row bd-highlight mb-1 align-items-center">
+                                <div class="p-2 bd-highlight">
+                                    <i class="fa-solid fa-square-check" style="
+                                font-weight: 600;
+                                font-size: 20px;
+                                color: #00ccff;
+                                margin-right: 12px;
+                                "></i>
+                                </div>
+                                <p class="fs-5">
+                                    Accept payments
+
+                                </p>
+
+                            </div>
+                            <div class=" d-flex flex-row bd-highlight mb-1 align-items-center">
+                                <div class="p-2 bd-highlight">
+                                    <i class="fa-solid fa-square-check" style="
+                                font-weight: 600;
+                                font-size: 20px;
+                                color: #00ccff;
+                                margin-right: 12px;
+                                "></i>
+                                </div>
+                                <p class="fs-5">
+                                    Make single payments
+
+
+                                </p>
+
+                            </div>
+                            <div class=" d-flex flex-row bd-highlight mb-1 align-items-center">
+                                <div class="p-2 bd-highlight">
+                                    <i class="fa-solid fa-square-check" style="
+                                font-weight: 600;
+                                font-size: 20px;
+                                color: #00ccff;
+                                margin-right: 12px;
+                                "></i>
+                                </div>
+                                <p class="fs-5">
+                                    Manage bulk transactions
+
+                                </p>
+
+                            </div>
+                        </div>
+
+
+
                     </div>
                 </div>
             </div>
         </div>
-        <?php include('./footer.html') ?>
+        <!-- <div class="banner-woman-shape"><img src="assets/images/home-six/banner/woman-shape-2.png" alt="image" /></div> -->
     </div>
- 
+
+
+
+
+    <div class="main-banner-woman-area  bg-light">
+        <div class="container">
+
+            <div class="row align-items-center">
+                <div class="col-lg-6 col-md-12">
+                    <!-- <div class="banner-woman-shape"><img src="assets/images/home-six/banner/woman-shape-2.png" alt="image" /></div> -->
+                </div>
+                <div class="col-lg-6 col-md-12">
+                    <div class=" pt-1">
+                        <h6>TERMINALS APIs </h6>
+                        <h2>Build Terminal solutions with our well-documented APIs
+                        </h2>
+                        <p>
+                            Our Terminal APIs help cooperatives and businesses who which to operate cooperative agent
+                            network launch customized hardware solutions tailored to their needs to facilitate
+                            hassle-free payments for their customers. </p>
+
+                    </div>
+                    <div class="my-3">
+                        <div class="d-flex flex-row bd-highlight mb-1 align-items-center">
+                            <div class="p-2 bd-highlight">
+                                <i class="fa-solid fa-square-check" style="
+                                font-weight: 600;
+                                font-size: 20px;
+                                color: #00ccff;
+                                margin-right: 12px;
+                                "></i>
+                            </div>
+                            <p class="fs-5">
+                                NFC Cards
+                            </p>
+
+                        </div>
+                        <div class=" d-flex flex-row bd-highlight mb-1 align-items-center">
+                            <div class="p-2 bd-highlight">
+                                <i class="fa-solid fa-square-check" style="
+                                font-weight: 600;
+                                font-size: 20px;
+                                color: #00ccff;
+                                margin-right: 12px;
+                                "></i>
+                            </div>
+                            <p class="fs-5">
+                                Point-of-Sale terminals (POS)
+
+                            </p>
+
+                        </div>
+                        <div class=" d-flex flex-row bd-highlight mb-1 align-items-center">
+                            <div class="p-2 bd-highlight">
+                                <i class="fa-solid fa-square-check" style="
+                                font-weight: 600;
+                                font-size: 20px;
+                                color: #00ccff;
+                                margin-right: 12px;
+                                "></i>
+                            </div>
+                            <p class="fs-5">
+                                Automated Teller Machine Cards (ATM cards)
+
+
+                            </p>
+
+                        </div>
+                        <div class=" d-flex flex-row bd-highlight mb-1 align-items-center">
+                            <div class="p-2 bd-highlight">
+                                <i class="fa-solid fa-square-check" style="
+                                font-weight: 600;
+                                font-size: 20px;
+                                color: #00ccff;
+                                margin-right: 12px;
+                                "></i>
+                            </div>
+                            <p class="fs-5">
+                                QR Codes
+
+                            </p>
+
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    </div>
+
+
+
+
+    <div class="about-us-area ptb-100">
+        <div class="container">
+            <div class="row align-items-center">
+                <div class="col-lg-6 col-md-12">
+                    <div class="about-us-content">
+                        <h6>AGENCY NETWORK APIs </h6>
+                        <h2>Quickly Launch an Agency Solution to Service businesses </h2>
+                        <p>Agency Network APIs, enable developers easily build agency applications that can help build a
+                            network of agents who could facilitate transactions on behalf of various businesses and
+                            cooperatives. </p>
+                        <div class="row justify-content-center">
+                            <div class="col-lg-5 col-md-6">
+                                <ul class="list">
+                                    <li><i class="flaticon-check-mark"></i> Deposits</li>
+                                    <li><i class="flaticon-check-mark"></i> Withdrawals
+                                    <li><i class="flaticon-check-mark"></i> Customers Onboarding</li>
+                                    <li><i class="flaticon-check-mark"></i> Sales of goods and services
+                                    </li>
+                                </ul>
+                            </div>
+                            <div class="col-lg-5 col-md-6">
+                                <ul class="list">
+                                    <li><i class="flaticon-check-mark"></i> Loan Application</li>
+                                    <li><i class="flaticon-check-mark"></i> Loan Processing</li>
+                                    <li><i class="flaticon-check-mark"></i>Pickup Location</li>
+                                </ul>
+                            </div>
+
+                        </div>
+                        <!-- <div class="about-btn"><a class="sign-up-btn" href="https://dashboard.voucherpay.online/">signup now <iclass="fa-solid fa-chevron-right"></i></a></div> -->
+                    </div>
+                </div>
+                <div class="col-lg-6 col-md-12">
+                    <!-- <img src="./assets/images/Voucher Pay-secure paymnt.png" alt="" height="500" width="500" class="mobile-res-phone"> -->
+                </div>
+            </div>
+        </div>
+        <div class="about-us-shape"><img src="assets/images/home-six/vector-shape-1.png" alt="image" /></div>
+    </div>
+    </div>
+    <div class="  ptb-100 bg-light">
+        <div class="container">
+            <div class="row align-items-center">
+                <div class="col-lg-6 col-md-12">
+
+                    <h6>COOPERATIVE APIs</h6>
+                    <h2>Launch a Cooperative Management System with just a simple step</h2>
+                    <p>Our well-documented cooperative APIs enable developers and cooperative societies quickly
+                        build and launch digital cooperative solutions that can handle both micro, small to large
+                        scale group financial services. Among the many benefits of launching a cooperative
+                        application on VoucherPay include; more users outreach through a quick integration with
+                        business and consumer applications already integrated with Voucherpay.</p>
+
+                </div>
+                <div class="col-lg-6 col-md-12">
+                    <div class="flexibility-content d-flex justify-content-center align-items-center">
+
+                        <div class="row justify-content-center">
+                            <div class="col-lg-6 col-md-6">
+                                <ul class="list">
+                                    <li><i class="flaticon-check-mark"></i> Members aggregation</li>
+                                    <li><i class="flaticon-check-mark"></i> Members management</li>
+                                    <li><i class="flaticon-check-mark"></i> Loan management</li>
+                                </ul>
+                            </div>
+                            <div class="col-lg-6 col-md-6">
+                                <ul class="list">
+                                    <li><i class="flaticon-check-mark"></i> Savings collection</li>
+                                    <li><i class="flaticon-check-mark"></i> Group donation</li>
+                                    <li><i class="flaticon-check-mark"></i> Dues Subscriptions</li>
+                                </ul>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+
+    <div class="main-banner-woman-area ">
+        <div class="container">
+
+            <div class="row align-items-center">
+                <div class="col-lg-5 col-md-12">
+                    <!-- <div class="banner-woman-shape"><img src="assets/images/home-six/banner/woman-shape-2.png" alt="image" /></div> -->
+                </div>
+                <div class="col-lg-7 col-md-12">
+                    <div class=" pt-1">
+                        <h6>CONSUMER APIs
+                        </h6>
+                        <h2>Fast and Simple way to Launch a Business to Consumers Application
+
+                        </h2>
+                        <p>
+
+                            VoucherPay Consumers APIs, help developers and the likes build custom Business-to-Consumers
+                            applications that can help consumers receive and make quick, easy payments with near-zero
+                            fees. Launching a Consumer application within Voucherpay give access to quick integration
+                            with multiple cooperative, businesses, and agent applications to provide more products and
+                            services and reach more users.
+                        </p>
+
+                    </div>
+                    <div class="row">
+                        <div class="col-lg-6">
+                            <div class="d-flex flex-row bd-highlight mb-1 align-items-center">
+                                <div class="p-2 bd-highlight">
+                                    <i class="fa-solid fa-square-check" style="
+                                font-weight: 600;
+                                font-size: 20px;
+                                color: #00ccff;
+                                margin-right: 12px;
+                                "></i>
+                                </div>
+                                <p class="fs-5">
+                                    Buy airtime
+                                </p>
+
+                            </div>
+                            <div class="d-flex flex-row bd-highlight mb-1 align-items-center">
+                                <div class="p-2 bd-highlight">
+                                    <i class="fa-solid fa-square-check" style="
+                                font-weight: 600;
+                                font-size: 20px;
+                                color: #00ccff;
+                                margin-right: 12px;
+                                "></i>
+                                </div>
+                                <p class="fs-5">
+                                    Bill payments
+                                </p>
+                            </div>
+                            <div class="d-flex flex-row bd-highlight mb-1 align-items-center">
+                                <div class="p-2 bd-highlight">
+                                    <i class="fa-solid fa-square-check" style="
+                                font-weight: 600;
+                                font-size: 20px;
+                                color: #00ccff;
+                                margin-right: 12px;
+                                "></i>
+                                </div>
+                                <p class="fs-5">
+                                Affiliate marketing 
+
+                                </p>
+                            </div>
+                            <div class="d-flex flex-row bd-highlight mb-1 align-items-center">
+                                <div class="p-2 bd-highlight">
+                                    <i class="fa-solid fa-square-check" style="
+                                font-weight: 600;
+                                font-size: 20px;
+                                color: #00ccff;
+                                margin-right: 12px;
+                                "></i>
+                                </div>
+                                <p class="fs-5">
+                                Cooperative membership
+
+
+                                </p>
+                            </div>
+                        </div>
+                        <div class="col-lg-6">
+                            <div class="d-flex flex-row bd-highlight mb-1 align-items-center">
+                                <div class="p-2 bd-highlight">
+                                    <i class="fa-solid fa-square-check" style="
+                                font-weight: 600;
+                                font-size: 20px;
+                                color: #00ccff;
+                                margin-right: 12px;
+                                "></i>
+                                </div>
+                                <p class="fs-5">
+                                Cooperative loans
+
+                                </p>
+
+                            </div>
+                            <div class="d-flex flex-row bd-highlight mb-1 align-items-center">
+                                <div class="p-2 bd-highlight">
+                                    <i class="fa-solid fa-square-check" style="
+                                font-weight: 600;
+                                font-size: 20px;
+                                color: #00ccff;
+                                margin-right: 12px;
+                                "></i>
+                                </div>
+                                <p class="fs-5">
+                                Cooperative savings
+
+                                </p>
+                            </div>
+                            <div class="d-flex flex-row bd-highlight mb-1 align-items-center">
+                                <div class="p-2 bd-highlight">
+                                    <i class="fa-solid fa-square-check" style="
+                                font-weight: 600;
+                                font-size: 20px;
+                                color: #00ccff;
+                                margin-right: 12px;
+                                "></i>
+                                </div>
+                                <p class="fs-5">
+                                Cooperative group donation
+                                </p>
+                            </div>
+                        </div> 
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
     
+    <div class="about-us-area ptb-100 bg-light">
+        <div class="container">
+            <div class="row align-items-center">
+                <div class="col-lg-6 col-md-12">
+                    <div class="about-us-content">
+                        <h6>BUSINESS APIs </h6>
+                        <h2>Build excellent payment experiences with well-documented APIs for your business </h2>
+                        <p>VoucherPay provides API solutions for businesses to help them build a suitable payment platform for their daily business transactions. Business who launches Business application with our APIs can quickly integrate with other businesses, cooperatives and agents to access more customers 
+ </p>
+                        <div class="row justify-content-center">
+                            <div class="col-lg-5 col-md-6">
+                                <ul class="list">
+                                    <li><i class="flaticon-check-mark"></i> Accepting Payments
+</li>
+                                    <li><i class="flaticon-check-mark"></i> Making Payments
+
+                                    <li><i class="flaticon-check-mark"></i> Add users to account</li>
+                                    <li><i class="flaticon-check-mark"></i> Advertising their goods and services
+
+                                    </li>
+                                </ul>
+                            </div>
+                            <div class="col-lg-5 col-md-6">
+                                <ul class="list">
+                                    <li><i class="flaticon-check-mark"></i> Generating sales
+</li>
+                                    <li><i class="flaticon-check-mark"></i> Applying for loans
+</li>
+                                    <li><i class="flaticon-check-mark"></i>Repay loans</li>
+                                </ul>
+                            </div>
+
+                        </div>
+                        <!-- <div class="about-btn"><a class="sign-up-btn" href="https://dashboard.voucherpay.online/">signup now <iclass="fa-solid fa-chevron-right"></i></a></div> -->
+                    </div>
+                </div>
+                <div class="col-lg-6 col-md-12">
+                    <!-- <img src="./assets/images/Voucher Pay-secure paymnt.png" alt="" height="500" width="500" class="mobile-res-phone"> -->
+                </div>
+            </div>
+        </div>
+        <div class="about-us-shape"><img src="assets/images/home-six/vector-shape-1.png" alt="image" /></div>
+    </div>
+    </div>
+    
+    
+    
+    
+    <div class="security-services-area pt-100 pb-75">
+        <div class="container">
+            <div class="wrap-section-title">
+                <h2>We show our value by serving faithfully</h2>
+            </div>
+            <div class="row justify-content-center">
+                <div class="col-lg-3 col-md-6">
+                    <div class="security-services-card">
+                        <div class="icon"><img src="./assets/images/truted-by/Voucher Pay-payment icon.png" alt=""
+                                height="50"></div>
+                        <h3> VOUCHERPAY API'S</h3>
+                        <p>With Voucherpay easy payment is guaranteed for your virtual, physical bill payments and daily
+                            transactions either locally or internationally.</p>
+                    </div>
+                </div>
+                <div class="col-lg-3 col-md-6">
+                    <div class="security-services-card">
+                        <div class="icon"><img src="./assets/images/truted-by/Voucher Pay-voucher point.png" alt=""
+                                height="50"></div>
+                        <h3> VOUCHERPAY TERMINALS</h3>
+                        <p>Various Voucher points are made available for your convenience and suitable for your mode of
+                            payment either bulk or small payments.</p>
+                    </div>
+                </div>
+                <div class="col-lg-3 col-md-6">
+                    <div class="security-services-card">
+                        <div class="icon"><img src="./assets/images/truted-by/Voucher Pay-voucher agent2.png" alt=""
+                                height="50"></div>
+                        <h3> VOUCHERPAY AGENTS</h3>
+                        <p>Voucherpay is dedicated to serving you and your business. One way to achieve that is by
+                            providing you voucher agents to see through any issue you might be experiencing.</p>
+                    </div>
+                </div>
+                <div class="col-lg-3 col-md-6">
+                    <div class="security-services-card">
+                        <div class="icon"><img src="./assets/images/truted-by/Voucher Pay-voucher cooperative icon.png"
+                                alt="" height="50"></div>
+                        <h3> VOUCHERPAY COOPERATIVES</h3>
+                        <p>Aside from the hassle-free payment services you enjoy using voucherpay, you are also eligible
+                            for mouth watering services and benefits as a member of a registered cooperative</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="awesome-features-area pt-100">
+        <div class="container">
+            <div class="row align-items-center">
+                <div class="col-lg-6 col-md-12">
+                    <div class="awesome-features-content">
+                        <h3>Built for you, no matter the size of your transactions</h3>
+                        <div class="row justify-content-center">
+                            <div class="col-lg-6 col-md-6">
+                                <ul class="list">
+                                    <li><i class="flaticon-check-mark"></i> Accept Payment</li>
+                                    <li><i class="flaticon-check-mark"></i> Make Payment</li>
+                                    <li><i class="flaticon-check-mark"></i> Streamline Operations</li>
+                                </ul>
+                            </div>
+                            <div class="col-lg-6 col-md-6">
+                                <ul class="list">
+                                    <li><i class="flaticon-check-mark"></i>Manage Risks</li>
+                                    <li><i class="flaticon-check-mark"></i> Increase Growth</li>
+                                    <li><i class="flaticon-check-mark"></i> Maximize Profits</li>
+                                </ul>
+                            </div>
+                        </div>
+
+                    </div>
+                </div>
+                <div class="col-lg-6 col-md-12">
+                    <div class="awesome-features-image"><img
+                            src="assets/images/new-img/Voucher Pay-lady with phone-new.png" alt="image" /></div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="testimonials-wrap-area ptb-100">
+
+        <div class="container"></div>
+        <div class="testimonials-wrap-shape">
+            <img src="assets/images/home-six/vector-shape-2.png" alt="image" />
+        </div>
+    </div>
+    <div class="blog-wrap-area pt-100 pb-75">
+        <div class="container">
+            <div class="wrap-section-title">
+                <h2>We make banking faster &amp; easier, so you can do more</h2>
+            </div>
+            <div class="row justify-content-center">
+                <div class="col-lg-4 col-md-6">
+                    <div class="single-blog-card">
+                        <div class="image"><a class="d-block" href="../single-blog/index.html"><img
+                                    src="assets/images/truted-by/Voucher-pay-for-individual.png" alt="image" /></a>
+                        </div>
+                        <div class="content">
+                            <h3><a href="../single-blog/index.html">VOUCHERPAY FOR INDIVIDUALS</a>
+                            </h3>
+                            <p>Voucherpay is available for not just businesses but for individuals to carry out
+                                day-to-day transactions and daily payments.</p>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-lg-4 col-md-6">
+                    <div class="single-blog-card">
+                        <div class="image">
+                            <a class="d-block" href="../single-blog/index.html">
+                                <img src="assets/images/new-img/Voucher Pay-payment for ind--.png" alt="image" />
+                            </a>
+                        </div>
+                        <div class="content">
+                            <h3>
+                                <a href="../single-blog/index.html">VOUCHERPAY FOR BUSINESSES</a>
+                            </h3>
+                            <p>Help your business thrive with fast and reliable payment services. We provide different
+                                payment options suitable for your business.</p>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-lg-4 col-md-6">
+                    <div class="single-blog-card">
+                        <div class="image">
+                            <a class="d-block" href="../single-blog/index.html">
+                                <img src="assets/images/new-img/Voucher Pay-payment for cooperative.png" alt="image" />
+                            </a>
+                        </div>
+                        <div class="content">
+                            <h3>
+                                <a href="../single-blog/index.html">VOUCHERPAY FOR COOPERATIVES</a>
+                            </h3>
+                            <p>Voucherpay provides services and benefits that strengthen cooperative systems and offer
+                                incentives to members of these cooperative systems.</p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="container bg-#070d13 ptb-70">
+        <div class="row d-flex justify-content-center align-items-center">
+            <div class="col-lg-7 col-sm-12">
+                <h1>Building your solutions with easy use Api's</h1>
+                <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Suscipit dolore dolores repudiandae quae
+                    error quaerat nobis ducimus illum repellat excepturi!</p>
+                <a class="btn btn-primary" href="https://doc.voucherpay.online">Discover More</a>
+            </div>
+            <div class="col-lg-5 col-sm-12">
+                <pre class="bg-dark">
+                        <span class="text-primary">const</span><span class="text-success">"axios"</span>= require('axios');
+                        <span class="text-primary">const</span><span class="text-success">"data"</span> = {
+                        <span class="text-warning">"reference"</span>: <span class="text-#f57f17">"e87f2dxvdrwew45345dd432",</span>
+                        <span class="text-warning">"first-name"</span>: <span class="text-#f57f17">"Voucher",</span>
+                        <span class="text-warning">"last-name"</span>: <span class="text-#f57f17"> "Pay",</span>
+                        <span class="text-warning">"mobile-number"</span>: <span class="text-#f57f17">"+234********89",</span>
+                        <span class="text-warning">"email"</span>: <span class="text-#f57f17">"Voucherpay@gmail.com",</span>
+                        <span class="text-warning">"address"</span>: <span class="text-#f57f17">"ilorin kwara state, Nigeria",</span>
+                        <span class="text-warning">"bvn"</span>: <span class="text-#f57f17">"************",</span>
+                        <span class="text-warning">"nin"</span>: <span class="text-#f57f17"> "*************"</span>
+                        }
+                        <span class="text-primary">const</span> config = {
+                        <span class="text-warning">method</span>: <span class="text-#f57f17">'post',</span>
+                        <span class="text-warning">maxBodyLength</span>: <span class="text-#f57f17">Infinity,</span>
+                        <span class="text-warning">url</span>: <span class="text-#f57f17">'https://dashboard.voucherpay.online/api',</span>
+                        <span class="text-warning">"headers"</span>: { 
+                            <span class="text-success">"tokens"</span>: <span class="text-#f57f17">'putyourpublickeyhere',</span> 
+                            <span class="text-success">"content-type"</span>: <span class="text-#f57f17">'application/json'</span>
+                        },
+                        data : data
+                        };
+                    </pre>
+            </div>
+        </div>
+    </div>
+    <?php include('./footer.html') ?>
+
+    </div>
+
+
 </body>
+
 
 </html>

@@ -6,7 +6,7 @@
     <link rel="preconnect" href="https://fonts.gstatic.com/" crossorigin />
     <meta charSet="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
-    <title>Online - Voucher</title>
+    <title>VoucherPay</title>
     <meta name="next-head-count" content="3" /> 
     <link rel="stylesheet" href="assets/static/css/9c68429a98c3f122.css" data-n-g="" /><noscript
         data-n-css=""></noscript>

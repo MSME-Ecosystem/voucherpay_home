@@ -1,12 +1,12 @@
 <!DOCTYPE html>
 <html lang="en">
-    
+
 <head>
     <link rel="icon" type="image/png" href="assets/images/Voucher Pay+==.png" />
     <link rel="preconnect" href="https://fonts.gstatic.com/" crossorigin />
     <meta charSet="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
-    <title>Online - Voucher</title>
+    <title>VoucherPay</title>
     <meta name="next-head-count" content="3" />
     <link rel="preload" href="assets/static/css/9c68429a98c3f122.css" as="style" />
     <link rel="stylesheet" href="assets/static/css/9c68429a98c3f122.css" data-n-g="" /><noscript
@@ -19,7 +19,7 @@
     <script src="assets/static/chunks/423-37ab5811a42b3b04.js" defer=""></script>
     <script src="assets/static/chunks/399-9bd747effbda85ea.js" defer=""></script>
     <script src="assets/static/chunks/75-bcaab3a5e194ff1b.js" defer=""></script>
-    <script src="assets/static/chunks/pages/features-two-cac0f19158bf0b47.js" defer=""></script> 
+    <script src="assets/static/chunks/pages/features-two-cac0f19158bf0b47.js" defer=""></script>
     <style
         data-href="https://fonts.googleapis.com/css?family=Roboto:100,100i,300,300i,400,400i,500,500i,700,700i,900,900i&display=swap">
         @font-face {
@@ -1836,142 +1836,243 @@
     <?php include('./nav-bar.html') ?>
     <div class="container ptb-100">
         <div class="row">
-            <div class="col-lg-6">
+            <div class="col-lg-8">
                 <div class="platform-main-content mt-5">
-                    <h2 id="platforms">Our Platform</h2>
-                    <p>Voucherpay leverages the different platforms to help you enjoy the best of our services.</p>
-                    <div class="feature-section">
-                        <div class="bar"></div>
-                    </div>
-                    <div class="col-lg-6 col-md-6">
-                        <ul class="list">
-                            <li><i class="flaticon-check-mark"></i>  No transaction hooks</li>
-                            <li><i class="flaticon-check-mark"></i> Secure Payment for Goods and Services</li>
-                            <li><i class="flaticon-check-mark"></i>  Zero Transaction charges</li>
-                            <li><i class="flaticon-check-mark"></i> Easy Withdrawal</li>
-                        </ul>
-                    </div>
+
+
+                    <h6 class="fw-bold">OUR PLATFORMS </h6>
+
+
+                    <h4>Leverage any of the Voucherpay platforms to make your everyday personal, business, cooperative
+                        and agent transactions hinche free </h4>
+
+                        <div class="my-3">
+                            <div class="d-flex flex-row bd-highlight mb-1 align-items-center">
+                                <div class="p-2 bd-highlight">
+                                    <i class="fa-solid fa-square-check" style="
+                                font-weight: 600;
+                                font-size: 20px;
+                                color: #00ccff;
+                                margin-right: 12px;
+                                "></i>
+                                </div>
+                                <p class="fs-5">
+                                No transaction hooks
+
+                                </p>
+
+                            </div>
+                            <div class=" d-flex flex-row bd-highlight mb-1 align-items-center">
+                                <div class="p-2 bd-highlight">
+                                    <i class="fa-solid fa-square-check" style="
+                                font-weight: 600;
+                                font-size: 20px;
+                                color: #00ccff;
+                                margin-right: 12px;
+                                "></i>
+                                </div>
+                                <p class="fs-5">
+                                Near-Zero Transaction charges
+
+
+                                </p>
+
+                            </div>
+                            <div class=" d-flex flex-row bd-highlight mb-1 align-items-center">
+                                <div class="p-2 bd-highlight">
+                                    <i class="fa-solid fa-square-check" style="
+                                font-weight: 600;
+                                font-size: 20px;
+                                color: #00ccff;
+                                margin-right: 12px;
+                                "></i>
+                                </div>
+                                <p class="fs-5">
+                                Easy Withdrawal
+
+                                </p>
+
+                            </div>
+                            <div class=" d-flex flex-row bd-highlight mb-1 align-items-center">
+                                <div class="p-2 bd-highlight">
+                                    <i class="fa-solid fa-square-check" style="
+                                font-weight: 600;
+                                font-size: 20px;
+                                color: #00ccff;
+                                margin-right: 12px;
+                                "></i>
+                                </div>
+                                <p class="fs-5">
+                                    Manage bulk transactions
+
+                                </p>
+
+                            </div>
+                        </div>
+
+
                 </div>
             </div>
         </div>
     </div>
-        <section class="features-section ptb-100 bg-f7fafd">
-            <div class="container">
-                <div class="section-title">
-                </div>
+    <section class="features-section ptb-100 bg-f7fafd">
+        <div class="container">
+            <div class="section-title">
             </div>
-            <div class="container">
-                <div class="row align-items-center justify-content-center">
-                    <div class="col-lg-5">
-                        <div class="features-box-list">
-                            <div class="row">
-                                <div class="col-lg-12 col-md-6">
-                                    <div class="features-box">
-                                        <div class="icon">
-                                            <img src="./assets/images/Voucher Pay-streamline ope.png" alt="" height="40">
-                                        </div>
-                                        <h3><a href="index.html">VOUCHERPAY</a></h3>
-                                        <p>With voucherpay, you can send and receive payments, make deposits to your voucherpay account and also make withdrawal requests. You can also pay your bills such as Phone, Tv, Gas, Petrol, and Power and also book official flight tickets using our payment platform.</p>
+        </div>
+        <div class="container">
+            <div class="row align-items-center justify-content-center">
+                <div class="col-lg-5">
+                    <div class="features-box-list">
+                        <div class="row">
+                            <div class="col-lg-12 col-md-6">
+                                <div class="features-box">
+                                    <div class="icon">
+                                        <img src="./assets/images/Voucher Pay-streamline ope.png" alt="" height="40">
                                     </div>
+                                    <h3> VOUCHERPAY FOR CONSUMERS </h3>
+                                    <p>With voucherpay, you can send and receive payments, make deposits to your
+                                        voucherpay account and also make withdrawal requests. You can also pay your
+                                        bills such as Phone, Tv, Gas, Petrol, and Power and also book official flight
+                                        tickets using our payment platform</p>
                                 </div>
-                                <div class="col-lg-12 col-md-6">
-                                    <div class="features-box">
-                                        <div class="icon bg-f78acb">
-                                            <img src="./assets/images/Voucher Pay-transparent backlog.png" alt="" height="40">
-                                        </div>
-                                        <h3><a href="index.html">VOUCHERPAY TERMINALS</a></h3>
-                                        <p>Voucher points such as Point-of-sale terminals (POS), QR codes, and NFC cards would be made available for easy payment and transaction processes for your business and organization.</p>
+                            </div>
+                            <div class="col-lg-12 col-md-6">
+                                <div class="features-box">
+                                    <div class="icon bg-f78acb">
+                                        <img src="./assets/images/Voucher Pay-transparent backlog.png" alt=""
+                                            height="40">
                                     </div>
+                                    <h3> VOUCHERPAY FOR BUSINESSES
+                                    </h3>
+                                    <p>Seamless transaction is a crucial component of commerce and VoucherPay for
+                                        Business is a business-to-business application that offers payment solutions for
+                                        businesses, enabling rapid, dependable, and hitch-free transactions.</p>
                                 </div>
-                                <div class="col-lg-12 col-md-6">
-                                    <div class="features-box">
-                                        <div class="icon bg-cdf1d8">
-                                            <img src="./assets/images/Voucher Pay-maximize profit.png" alt="" height="40">
-                                        </div>
-                                        <h3><a href="index.html">VOUCHERPAY AGENTS</a></h3>
-                                        <p>Voucher agents would be made available at designated locations close to your locality to aid with your payment convenience.</p>
+                            </div>
+                            <div class="col-lg-12 col-md-6">
+                                <div class="features-box">
+                                    <div class="icon bg-cdf1d8">
+                                        <img src="./assets/images/Voucher Pay-maximize profit.png" alt="" height="40">
                                     </div>
+                                    <h3> VOUCHERPAY FOR AGENTS </h3>
+                                    <p>Every business goal is to reach a wide consumer range and agent integration is
+                                        one way to achieve that. VoucherPay for Agents is for agents who want to expand
+                                        the VoucherPay market network, it is also a business-to-business application
+                                        that helps agents provide third party services on behalf of businesses to
+                                        their customers</p>
                                 </div>
-                                <div class="col-lg-12 col-md-6">
-                                    <div class="features-box">
-                                        <div class="icon bg-c679e3"><img src="./assets/images/Voucher Pay-enterprise grade.png" alt="" height="40"></div>
-                                        <h3><a href="index.html">VOUCHERPAY COOPERATIVES</a></h3>
-                                        <p>Aside from the hassle-free payment services you enjoy using voucherpay, you are also eligible for mouthwatering services and benefits as a member of a registered cooperative.</p>
+                            </div>
+                            <div class="col-lg-12 col-md-6">
+                                <div class="features-box">
+                                    <div class="icon bg-c679e3"><img
+                                            src="./assets/images/Voucher Pay-enterprise grade.png" alt="" height="40">
                                     </div>
+                                    <h3> VOUCHERPAY FOR COOPERATIVES
+                                    </h3>
+                                    <p>Cooperative system is an essential part of sustainable development. VoucherPay
+                                        for Cooperatives is a business-to-business and business-to-consumer application
+                                        that help cooperative societies seamlessly provides services for their
+                                        enterprise members and consumer members.</p>
                                 </div>
+                            </div>
+                            <div class="col-lg-12 col-md-6">
+                                <div class="features-box">
+                                    <div class="icon bg-c679e3"><img
+                                            src="./assets/images/Voucher Pay-enterprise grade.png" alt="" height="40">
+                                    </div>
+                                    <h3> VOUCHERPAY TERMINALS
+
+                                    </h3>
+                                    <p>VoucherPay terminals are business-to-business applications that provide
+                                        businesses with hardware solutions like the Point of Sale (POS) terminals. The
+                                        POS terminal can be used to accept payments from customers, make payments to
+                                        suppliers and also withdraw funds, payments become swift and reliable for
+                                        businesses to trust and navigate.</p>
+                                </div>
+                            </div>
+
+                        </div>
+                    </div>
+                </div>
+                <div class="col-lg-7">
+                    <div class="represent-images">
+                        <div class="first-two-images">
+                            <div>
+                                <img src="./assets/images/truted-by/Voucher Pay-our features.png" alt="">
                             </div>
                         </div>
                     </div>
-                    <div class="col-lg-7">
-                        <div class="represent-images">
-                            <div class="first-two-images">
-                                <div>
-                                    <img src="./assets/images/truted-by/Voucher Pay-our features.png" alt="">
-                                </div>
-                            </div>
+                </div>
+            </div>
+        </div>
+    </section>
+    <section class="features-area ptb-100 bg-f6f4f8">
+        <div class="container">
+            <div class="section-title">
+                <h2>Our Features</h2>
+                <div class="bar"></div>
+                <p>Explore some of the features available on our Voucherpay platforms</p>
+            </div>
+            <div class="row">
+                <div class="col-lg-4 col-sm-6 col-md-6">
+                    <div class="single-features-box">
+                        <div class="icon"><img src="./assets/images/Voucher Pay-manage risk.png" alt="" height="40">
                         </div>
+                        <h3>COOPERATIVE AGGREGATION </h3>
+                        <p>We provide solutions for cooperatives with tools to help build the cooperative system.</p>
+                    </div>
+                </div>
+                <div class="col-lg-4 col-sm-6 col-md-6">
+                    <div class="single-features-box">
+                        <div class="icon bg-f78acb"><img src="./assets/images/Voucher Pay-accept payment.png" alt=""
+                                height="40"></div>
+                        <h3> TRANSACTIONS</h3>
+                        <p>We provide you with simple, hassle-free transactions for both your local and international
+                            payments.</p>
+                    </div>
+                </div>
+                <div class="col-lg-4 col-sm-6 col-md-6">
+                    <div class="single-features-box">
+                        <div class="icon bg-cdf1d8"><img src="./assets/images/Voucher Pay-maximize profit.png" alt=""
+                                height="40"></div>
+                        <h3> SAVINGS</h3>
+                        <p>Our platform serves as a saving account for you and your business for future expenses.</p>
+                    </div>
+                </div>
+                <div class="col-lg-4 col-sm-6 col-md-6">
+                    <div class="single-features-box">
+                        <div class="icon bg-c679e3"><img src="./assets/images/Voucher Pay-make paymnt.png" alt=""
+                                height="40"></div>
+                        <h3> AUTOMATED BILL PAYMENTS</h3>
+                        <p>Pay any of your bills conveniently using voucherpay I.e phone and power bills.</p>
+                    </div>
+                </div>
+                <div class="col-lg-4 col-sm-6 col-md-6">
+                    <div class="single-features-box">
+                        <div class="icon bg-eb6b3d"><img src="./assets/images/Voucher Pay-increase growth.png" alt=""
+                                height="40"></div>
+                        <h3> RECONCILIATION AND AUDIT</h3>
+                        <p>Understand your purchase and saving patterns for easy reconciliations with a robust data
+                            Dashboard.</p>
+                    </div>
+                </div>
+                <div class="col-lg-4 col-sm-6 col-md-6">
+                    <div class="single-features-box">
+                        <div class="icon"><img src="./assets/images/Voucher Pay-fast payment.png" alt="" height="40">
+                        </div>
+                        <h3> COOPERATIVE LOANS</h3>
+                        <p>Through your cooperative, we give you access to financing.</p>
                     </div>
                 </div>
             </div>
-        </section>
-        <section class="features-area ptb-100 bg-f6f4f8">
-            <div class="container">
-                <div class="section-title">
-                    <h2>Our features</h2>
-                    <div class="bar"></div>
-                    <p>Building a secure, functional, and financially accessible digital payment platform for cooperative systems.</p>
-                </div>
-                <div class="row">
-                    <div class="col-lg-4 col-sm-6 col-md-6">
-                        <div class="single-features-box">
-                            <div class="icon"><img src="./assets/images/Voucher Pay-manage risk.png" alt="" height="40"></div>
-                            <h3>COOPERATIVE AGGREGATION </h3>
-                            <p>We provide solutions for cooperatives with tools to help build the cooperative system.</p>
-                        </div>
-                    </div>
-                    <div class="col-lg-4 col-sm-6 col-md-6">
-                        <div class="single-features-box">
-                            <div class="icon bg-f78acb"><img src="./assets/images/Voucher Pay-accept payment.png" alt="" height="40"></div>
-                            <h3> TRANSACTIONS</h3>
-                            <p>We provide you with simple, hassle-free transactions for both your local and international payments.</p>
-                        </div>
-                    </div>
-                    <div class="col-lg-4 col-sm-6 col-md-6">
-                        <div class="single-features-box">
-                            <div class="icon bg-cdf1d8"><img src="./assets/images/Voucher Pay-maximize profit.png" alt="" height="40"></div>
-                            <h3> SAVINGS</h3>
-                            <p>Our platform serves as a saving account for you and your business for future expenses.</p>
-                        </div>
-                    </div>
-                    <div class="col-lg-4 col-sm-6 col-md-6">
-                        <div class="single-features-box">
-                            <div class="icon bg-c679e3"><img src="./assets/images/Voucher Pay-make paymnt.png" alt="" height="40"></div>
-                            <h3> AUTOMATED BILL PAYMENTS</h3>
-                            <p>Pay any of your bills conveniently using voucherpay I.e phone and power bills.</p>
-                        </div>
-                    </div>
-                    <div class="col-lg-4 col-sm-6 col-md-6">
-                        <div class="single-features-box">
-                            <div class="icon bg-eb6b3d"><img src="./assets/images/Voucher Pay-increase growth.png" alt="" height="40"></div>
-                            <h3> RECONCILIATION AND AUDIT</h3>
-                            <p>Understand your purchase and saving patterns for easy reconciliations with a robust data Dashboard.</p>
-                        </div>
-                    </div>
-                    <div class="col-lg-4 col-sm-6 col-md-6">
-                        <div class="single-features-box">
-                            <div class="icon"><img src="./assets/images/Voucher Pay-fast payment.png" alt="" height="40"></div>
-                            <h3> COOPERATIVE LOANS</h3>
-                            <p>Through your cooperative, we give you access to financing.</p>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </section>
-        <?php include('./footer.html') ?>
-        
+        </div>
+    </section>
+    <?php include('./footer.html') ?>
+
     </div>
- 
-    
+
+
 </body>
 
 </html>
