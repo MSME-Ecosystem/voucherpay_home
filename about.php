@@ -1,13 +1,13 @@
 <!DOCTYPE html>
 <html lang="en">
-    
+
 <head>
     <link rel="icon" type="image/png" href="assets/images/Voucher Pay+==.png" />
     <link rel="preconnect" href="https://fonts.gstatic.com/" crossorigin />
     <meta charSet="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
     <title>VoucherPay</title>
-    <meta name="next-head-count" content="3" /> 
+    <meta name="next-head-count" content="3" />
     <link rel="stylesheet" href="assets/static/css/9c68429a98c3f122.css" data-n-g="" /><noscript
         data-n-css=""></noscript>
     <script defer="" nomodule="" src="assets/static/chunks/polyfills-5cd94c89d3acac5f.js"></script>
@@ -19,7 +19,7 @@
     <script src="assets/static/chunks/423-37ab5811a42b3b04.js" defer=""></script>
     <script src="assets/static/chunks/399-9bd747effbda85ea.js" defer=""></script>
     <script src="assets/static/chunks/75-bcaab3a5e194ff1b.js" defer=""></script>
-    <script src="assets/static/chunks/pages/about-us-48fe2eab7910ba2f.js" defer=""></script> 
+    <script src="assets/static/chunks/pages/about-us-48fe2eab7910ba2f.js" defer=""></script>
     <style
         data-href="https://fonts.googleapis.com/css?family=Roboto:100,100i,300,300i,400,400i,500,500i,700,700i,900,900i&display=swap">
         @font-face {
@@ -1834,93 +1834,234 @@
 
 <body>
     <?php include('./nav-bar.html') ?>
-       <div class="page-title-area item-bg1">
-            <div class="container">
-                <div class="page-title-content">
-                    <h2>About Us</h2>                    
-                </div>
+    <div class="page-title-area">
+        <div class="container">
+            <div class="page-title-content fw-75">
+                <h3 class="text-dark">We are building services targeted towards areas where traditional banking has
+                    failed over the years. We are taking financial services to those at the remotest part of Africa. </h3>
+                <h5 class="mt-3 fw-normal">The World Bank reports that roughly 1.7 billion humans are unbanked, with 66%
+                    of adult population in Africa</h5>
             </div>
         </div>
-        <div class="partner-area ptb-70">
-            <div class="container">
-                <div class="section-title">
-                    <h2>Businesses building with us</h2>
-                    <div class="bar"></div>
-                    <p>Enjoy services and benefits with easy access to finance tailored to your industry</p>
-                </div>
-                <div class="partner-inner ptb-70">
-                    <div class="row align-items-center">
-                        <div class="single-partner-item">
-                            <a href="index.html" target="_blank">
-                                <img src="./assets/images/truted-by/Voucher Pay-SmartAgric-new.png" alt="Partner" height="100"/>
-                                <img src="./assets/images/truted-by/Voucher Pay-SmartAgric-new.png" alt="Partner" height="100"/>
-                            </a>
-                        </div>
-                        <div class="single-partner-item">
-                            <a href="index.html" target="_blank">
-                                <img src="assets/images/truted-by/Voucher Pay-PowerEdu-new.png" alt="Partner" height="100"/>
-                                <img src="assets/images/truted-by/Voucher Pay-PowerEdu-new.png" alt="Partner" height="100"/>
-                            </a>
-                        </div>
-                        <div class="single-partner-item">
-                            <a href="index.html" target="_blank">
-                                <img src="assets/images/truted-by/Voucher Pay-Acemove-new.png" alt="Partner" height="100"/>
-                                <img src="assets/images/truted-by/Voucher Pay-Acemove-new.png" alt="Partner" height="100"/>
-                            </a>
-                        </div>
-                        <div class="single-partner-item">
-                            <a href="index.html" target="_blank">
-                                <img src="assets/images/truted-by/Voucher Pay-Truss-new.png" alt="Partner" height="100"/>
-                                <img src="assets/images/truted-by/Voucher Pay-Truss-new.png" alt="Partner" height="100"/>
-                            </a>
-                        </div>
-                        <div class="single-partner-item">
-                            <a href="index.html" target="_blank">
-                                <img src="assets/images/truted-by/Voucher Pay-Gomech-new.png" alt="Partner" height="100"/>
-                                <img src="assets/images/truted-by/Voucher Pay-Gomech-new.png" alt="Partner" height="100"/>
-                            </a>
-                        </div>
-                        <div class="single-partner-item">
-                            <a href="index.html" target="_blank">
-                                <img src="assets/images/truted-by/Voucher Pay-Quick-new.png" alt="Partner" height="100"/>
-                                <img src="assets/images/truted-by/Voucher Pay-Quick-new.png" alt="Partner" height="100"/>
-                            </a>
-                        </div>
-                        </div>
-                    </div>
-                </div>
-
-
-        <div class="app-download-area">
-            <div class="container">
-                <div class="row align-items-center">
-                    <div class="col-lg-6 col-md-12">
-                        <div class="app-image">
-                            <div class="main-image">
-                                <img src="assets/images/Voucher Pay-phone.png" class="wow fadeInLeft"data-wow-delay="0.6s" alt="image" height="450" />
-                            </div>
-                        </div>
-                    </div>
-                    <div class="col-lg-6 col-md-12">
-                        <div class="app-download-content">
-                            <h2>Streamline payment processing, improve cash flow</h2>
-                            <div class="bar"></div>
-                            <p>We also offer customized payment solutions that can be tailored to the specific needs of your Cooperative. Our payment processing experts will work with you to develop a solution that is optimized for your business, whether you need to process large volumes of transactions or require complex payment integrations.</p>
-                            <p>Be rest assured that your payment processing is in good hands. Our secure and reliable payment solutions are designed to help you run your business more efficiently and effectively, so you can focus on what you do best.</p>
-                            <div class="btn-box">
-                                <button class="app-store-btn border border-none p-2"><a href="" class="text-white">Contact Sales</a></button>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-        <!-- <div class="back-to-top show-back-to-top"></div> -->
     </div>
-    <?php include('./footer.html') ?>
-       
 
-    
+    <div class="app-download-area ptb-100 bg-light">
+        <div class="container">
+            <div class="row align-items-center">
+                <div class="col-lg-6 col-md-12">
+                    <div class="app-image">
+                        <div class="main-image">
+                            <img src="assets/images/Voucher Pay-phone.png" class="wow fadeInLeft" data-wow-delay="0.6s"
+                                alt="image" height="450" />
+                        </div>
+                    </div>
+                </div>
+                <div class="col-lg-6 col-md-12">
+                    <div class="app-download-content">
+
+                        <h2>The Nigeria case study</h2>
+
+                        <p class="fs-5">Commercial banks, Investment banks, Merchant Banks and Fintechs characterize
+                            the Nigerian financial industry today. These institutions are the formal According to CBN
+                            report, the average Banking density in the urban area is one financial outlet to 32,700
+                            inhabitants. In the rural area, it is 1 (one) financial outlet to 57,000 inhabitants. This
+                            means that less than 2% of rural households have access to financial services. Although the
+                            government had in the past initiated several programs to encourage and boost the small and
+                            medium scale industries, most of them were short-lived and could not effectively address the
+                            problems for which they were initiated. </p>
+
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+
+
+
+
+
+    <div class="app-download-area ptb-100 ">
+        <div class="container">
+            <div class="row align-items-center">
+
+                <div class="col-lg-6 col-md-12">
+                    <div class="app-download-content">
+                        <h6>Our Services
+                        </h6>
+                        <h2>Simplify payment processing, improve cash flow.</h2>
+
+                        <p class="fs-5">We offer customized payment solutions that can be tailored to the specific needs
+                            of your
+                            Cooperative and business. Our payment processing experts will work with you to develop a
+                            solution that is optimized for your business, whether you need to process large volumes of
+                            transactions or require complex payment integrations.
+                            Be rest assured that your payment processing is in good hands. Our secure and reliable
+                            payment solutions are designed to help you run your business more efficiently and
+                            effectively, so you can focus on what you do best
+                        </p>
+
+                    </div>
+                </div>
+                <div class="col-lg-6 col-md-12">
+                    <div class="app-image">
+                        <div class="main-image">
+                            <img src="assets/images/Voucher Pay-phone.png" class="wow fadeInLeft" data-wow-delay="0.6s"
+                                alt="image" height="450" />
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+
+
+    <div class="app-download-area ptb-100 bg-light">
+        <div class="container">
+            <div class="row align-items-center">
+
+                <div class="col-lg-6 col-md-12">
+                    <div class="app-download-content">
+                        <h6>Our Vision
+                        </h6>
+                        <h2>Digital payment solutions for businesses and cooperatives</h2>
+
+                        <p class="fs-5">We are providing digital payment solutions for businesses and cooperatives,
+                            minimizing payment hurdles and bridging the gap between the underserved and technology.
+                            Achieving swift and seamless payment processing is the goal for us at VoucherPay, by
+                            building an excellent Platform that will API solution that can be integrated to suit your
+                            preferences and easy to navigate payment platforms.
+                        </p>
+
+                    </div>
+                </div>
+                <div class="col-lg-6 col-md-12">
+                    <div class="app-image">
+                        <div class="main-image">
+                        <img src="./assets/images/new-img/Untitled design.gif"
+                                alt="image" width="450" />
+                           
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <div class="awesome-features-area ptb-100">
+        <div class="container">
+        <h2 class="text-center">Our Core Values</h2>
+        <h6 class="text-center">What defines us as a team</h6>
+            <div class="row align-items-center pt-3">
+                <div class="row m-3">
+                    <div class="col-sm-4 mt-3">
+                        <div class="card">
+                            <div class="card-body">
+                                <h5 class="card-title">User-centric</h5>
+                                <p class="card-text">At VoucherPay, the customers come first. We go above and beyond to guarantee that our users always get the best experience.</p>
+                                
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-sm-4 mt-3">
+                        <div class="card">
+                            <div class="card-body">
+                                <h5 class="card-title">Quality</h5>
+                                <p class="card-text">Every product has been expertly designed and delivered with high-quality. Compromise is non-existent at VoucherPay.</p>
+                            
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-sm-4 mt-3">
+                        <div class="card">
+                            <div class="card-body">
+                                <h5 class="card-title">Empowerment</h5>
+                                <p class="card-text">Our goal is to empower businesses and cooperatives to enjoy payments experiences and perform transactions hitch-free.
+                                    </p>                              
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-sm-4 mt-3">
+                        <div class="card">
+                            <div class="card-body">
+                                <h5 class="card-title">Accountability</h5>
+                                <p class="card-text">We ensure that everyone is kept in the loop and no one is left out, especially not our users.</p>                              
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-sm-4 mt-3">
+                        <div class="card">
+                            <div class="card-body">
+                                <h5 class="card-title">Excellence</h5>
+                                <p class="card-text">We constantly strive for complete perfection in everything we do as a core component of our values.</p>                              
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-sm-4 mt-3">
+                        <div class="card">
+                            <div class="card-body">
+                                <h5 class="card-title">Communication</h5>
+                                <p class="card-text">Communication is key to teamwork and growth for us. </p>                              
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-sm-4 mt-3">
+                        <div class="card">
+                            <div class="card-body ">
+                                <h5 class="card-title">Teamwork</h5>
+                                <p class="card-text">Excellent Teamwork is one of the keys to success. We leverage our skills to create innovative payment solutions. </p>                              
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-sm-4 mt-3">
+                        <div class="card">
+                            <div class="card-body">
+                                <h5 class="card-title"> Commitment</h5>
+                                <p class="card-text">As a team, we are totally dedicated to delivering topnotch solution to enable our customers scale.. </p>                              
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    </div>
+
+
+
+
+
+
+
+    <div class="testimonials-wrap-area ptb-100">
+        <div class="container ">
+            <div class="row">
+                <div class="testimonials-wrap-area ">
+
+
+                </div>
+                <div class="col-lg-12 col-md-12      ">
+                    <h2 class="text-center text-white">MISSION STATEMENT</h2>
+
+                    <h5 class="fw-normal text-center text-white">We are on a mission to reduce the complexity of
+                        financial services
+                        for the
+                        underserved, reaching the remotest parts of Africa with the use of custom payment solutions
+                        which you can integrate with using our well-documented API and excellent Payment platforms.</h5>
+                </div>
+            </div>
+            <div class="testimonials-wrap-shape">
+                <img src="assets/images/home-six/vector-shape-2.png" alt="image" />
+            </div>
+        </div>
+    </div>
+
+
+    <?php include('./footer.html') ?>
+    <div class="back-to-top show-back-to-top"></div>
+
+
 </body>
 
 </html>

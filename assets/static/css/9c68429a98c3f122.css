@@ -16372,6 +16372,7 @@ to {
     /* background: linear-gradient(to right top, #a3a3a3, #9a9a9a, #909090, #878787, #7e7e7e); */
     border-radius: 30px;
 }
+
 .single-pricing-box .pricing-features {
     padding: 30px;
     margin-bottom: 0;
@@ -17318,18 +17319,16 @@ ul.entry-meta li i {
 }
 .page-title-area {
     position: relative;
-    z-index: 1;
-    /* background-color: #212529;
-    background-position: 50%;
-    background-size: cover;
-    background-repeat: no-repeat;
-    background-attachment: fixed; */
-    padding-top: 200px;
-    padding-bottom: 120px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    z-index: 1;     
+    height: 100vh;
+  
 }
 .page-title-area:before {
     width: 100%;
-    background: #000;
+ /*    background: #000; */
     opacity: .6;
 }
 .page-title-area:after, .page-title-area:before {
@@ -17344,15 +17343,15 @@ ul.entry-meta li i {
     right: 0;
     bottom: 0;
     opacity: .04;
-    background-image: url(../../../assets/images/bg_lines.svg);
+ /*    background-image: url(../../../assets/images/bg_lines.svg); */
     background-repeat: no-repeat;
     background-position: 50%;
     background-size: 200%}
 .page-title-area.item-bg1, .page-title-area.item-bg2 {
-    background-image: url(../../../assets/images/Voucher\ Pay-img5.png);
+    /* background-image: url(../../../assets/images/Voucher\ Pay-img5.png); */
 }
 .page-title-area.item-bg1{
-    background: url(../../../assets/images/Voucher\ Pay-about\ us.png);
+   /*  background: url(../../../assets/images/Voucher\ Pay-about\ us.png); */
     background-repeat: no-repeat;
     background-size: cover;
 }
@@ -22236,4 +22235,16 @@ p {
     right: -45%;
     top: 0;
 }
+}
+
+.privacy-features {
+    margin-top: 80px;
+    position: -webkit-sticky;
+    position: -moz-sticky;
+    position: -ms-sticky;
+    position: -o-sticky;
+    position: sticky;
+    top: 30px;
+    overflow-x: hidden;
+    
 }
